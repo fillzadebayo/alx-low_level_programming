@@ -1,9 +1,9 @@
 #include <stdio.h>
 
 /**
- * Main - entry point
+ * *main- entry point for the program
  *
- * Return: Always 0 (sucsess)
+ * *Return: Always 0 (Success)
  *
  */
 
