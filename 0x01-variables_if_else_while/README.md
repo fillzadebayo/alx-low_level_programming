@@ -6,4 +6,12 @@
 5 - print numbers
 6 - numberz
 7 - tebahlpa
-
+8 - print hex
+9 - print comb8 - print hex
+9 - print comb8 - print hex
+9 - print comb8 - print hex
+9 - print comb8 - print hex
+9 - print comb8 - print hex
+9 - print comb8 - print hex
+9 - print comb8 - print hex
+9 - print comb
