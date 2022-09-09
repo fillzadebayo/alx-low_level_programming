@@ -5,3 +5,5 @@
 4 - printalphbet
 5 - print numbers
 6 - numberz
+7 - tebahlpa
+
