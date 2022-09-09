@@ -5,3 +5,4 @@ Task 0 - preprocessor
 4 - puts
 5 - print
 6 - sizeof
+7 - intel codes
