@@ -4,3 +4,4 @@ Task 0 - preprocessor
 3 - name
 4 - puts
 5 - print
+6 - sizeof
