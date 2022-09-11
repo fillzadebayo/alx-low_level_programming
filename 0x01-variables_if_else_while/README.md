@@ -14,4 +14,4 @@
 9 - print comb8 - print hex
 9 - print comb8 - print hex
 9 - print comb8 - print hex
-9 - print comb
+10 - print comb3 - inventing a combination
