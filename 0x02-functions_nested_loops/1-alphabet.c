@@ -12,8 +12,7 @@ int main(void)
 	void print_alphabet(void);
 	{
 		int i;
-		char a;
-		a[] = "abcdefghijklmnopqrstuvwxyz";
+		char a[] = "abcdefghijklmnopqrstuvwxyz";
 		for (i = 0; i < 26; i++)
 		{
 		_putchar(a[i]);
