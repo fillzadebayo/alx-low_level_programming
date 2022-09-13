@@ -8,3 +8,4 @@
 7 - print last digit
 8 - hours
 9 - times table
+10 - add
