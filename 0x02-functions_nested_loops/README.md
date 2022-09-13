@@ -7,3 +7,4 @@
 6 - abs
 7 - print last digit
 8 - hours
+9 - times table
