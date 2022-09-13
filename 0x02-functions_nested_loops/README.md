@@ -4,3 +4,4 @@
 3 - is lower
 4 - isalpha
 5 - sign
+6 - abs
