@@ -10,3 +10,4 @@
 9 - times table
 10 - add
 11 - n 98
+12 - times table
