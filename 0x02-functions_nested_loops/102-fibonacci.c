@@ -9,7 +9,7 @@
 int main(void)
 {
 	int i, n, n1, n2, nextTerm;
-		n = 50;
+		n = 100;
 		n1 = 0;
 		n2 = 1;
 	nextTerm = 1;
