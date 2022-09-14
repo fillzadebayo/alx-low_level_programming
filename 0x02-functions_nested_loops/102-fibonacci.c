@@ -8,11 +8,11 @@
 
 int main(void)
 {
-	int i, n, n1, n2;
+	int i, n, n1, n2, nextTerm;
 		n = 50;
 		n1 = 0;
 		n2 = 1;
-	int nextTerm = n1 + n2;
+	nextTerm = n1 + n2;
 		printf("%d, %d, ", n1, n2);
 	for (i = 3; i <= n; ++i)
 	{
