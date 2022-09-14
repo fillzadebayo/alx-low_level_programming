@@ -12,13 +12,13 @@ int main(void)
 		n = 50;
 		int n1 = 0, n2 = 1;
 	int nextTerm = n1 + n2;
-		printf("%d, %d, ", t1, t2);
+		printf("%d, %d, ", n1, n2);
 	for (i = 3; i <= n; ++i)
 	{
 		printf("%d, ", nextTerm);
-		t1 = t2;
-		t2 = nextTerm;
-		nextTerm = t1 + t2;
+		n1 = n2;
+		n2 = nextTerm;
+		nextTerm = n1 + n2;
 	}
 return (0);
 }
