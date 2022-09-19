@@ -7,3 +7,4 @@
 6 - puts2
 7 - puts half
 8 - print
+9 - strcpy
