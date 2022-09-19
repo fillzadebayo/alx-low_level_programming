@@ -5,3 +5,4 @@
 4 - print rev
 5 - rev string
 6 - puts2
+7 - puts hald
