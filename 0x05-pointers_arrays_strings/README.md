@@ -4,3 +4,4 @@
 3 - string newline
 4 - print rev
 5 - rev string
+6 - puts2
