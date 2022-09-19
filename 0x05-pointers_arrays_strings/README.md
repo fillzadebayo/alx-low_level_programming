@@ -8,3 +8,4 @@
 7 - puts half
 8 - print
 9 - strcpy
+10 - atoi
