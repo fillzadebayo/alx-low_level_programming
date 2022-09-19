@@ -9,3 +9,4 @@
 8 - print
 9 - strcpy
 10 - atoi
+11 - keygen
