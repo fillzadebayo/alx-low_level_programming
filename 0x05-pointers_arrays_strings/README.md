@@ -3,3 +3,4 @@
 2 - string lenth
 3 - string newline
 4 - print rev
+5 - rev string
