@@ -5,3 +5,4 @@
 4 - revers string
 5 - string to upper
 6 - string to capper
+7 - leet
