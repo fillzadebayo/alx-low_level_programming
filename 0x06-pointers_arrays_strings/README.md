@@ -3,3 +3,4 @@
 2 - Write a function that copies a string.
 3 - compares two strings
 4 - revers string
+5 - string to upper
