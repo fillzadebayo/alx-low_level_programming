@@ -4,3 +4,4 @@
 3 - compares two strings
 4 - revers string
 5 - string to upper
+6 - string to capper
