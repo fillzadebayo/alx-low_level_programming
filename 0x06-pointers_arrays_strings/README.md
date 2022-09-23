@@ -8,3 +8,4 @@
 7 - leet
 8 - rot
 9 - print number
+10 - print 98 number 
