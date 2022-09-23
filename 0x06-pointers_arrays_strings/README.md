@@ -6,3 +6,4 @@
 5 - string to upper
 6 - string to capper
 7 - leet
+8 - rot
