@@ -5,4 +5,5 @@
 4 - print most
 5 - more num
 6 - print line
-7 - print digi 
+7 - print digi
+8 - print saqure 
