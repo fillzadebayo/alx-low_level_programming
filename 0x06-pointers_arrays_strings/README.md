@@ -7,3 +7,4 @@
 6 - string to capper
 7 - leet
 8 - rot
+9 - print number
