@@ -6,4 +6,4 @@
 5 - strstr
 6 - print chessboard
 7 - print diagrams
-
+8 - set string
