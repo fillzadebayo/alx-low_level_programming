@@ -4,3 +4,4 @@
 3 - strspn
 4 - strstr
 5 - strstr
+6 - print chessboard
