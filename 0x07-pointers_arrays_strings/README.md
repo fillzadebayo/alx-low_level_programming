@@ -2,3 +2,4 @@
 1 - memcpy task
 2 - strchr
 3 - strspn
+4 - strstr
